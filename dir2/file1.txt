@@ -1,0 +1,6 @@
+cat dir2/file1.txt
+Hello GitHub 
+This is Loveleen
+I am working in Wipro.
+Thanks.
+
